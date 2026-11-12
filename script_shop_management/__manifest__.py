@@ -35,6 +35,11 @@ comparison? See the paid extension "Script Shop Management Pro".
         'views/shop_dashboard_views.xml',
         'views/shop_menus.xml',
     ],
+    'images': [
+        'static/description/screenshot_2_dashboard.jpg',
+        'static/description/screenshot_1_shops.jpg',
+        'static/description/screenshot_3_purchases.jpg',
+    ],
     'assets': {
         'web.assets_backend': [
             'script_shop_management/static/src/dashboard/shop_dashboard.js',
