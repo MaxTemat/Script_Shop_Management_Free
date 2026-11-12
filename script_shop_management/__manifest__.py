@@ -21,7 +21,7 @@ comparison? See the paid extension "Script Shop Management Pro".
 """,
     'author': 'Script Consulting',
     'maintainer': 'Script Consulting',
-    'website': 'https://github.com/MaxTemat/Script_Shop_Management_Free',
+    'website': 'https://maxtemat.github.io/script-consulting',
     'category': 'Sales/Point of Sale',
     'license': 'LGPL-3',
     'depends': ['point_of_sale', 'purchase', 'stock'],
